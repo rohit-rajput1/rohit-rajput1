@@ -2,9 +2,8 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/sidbelbase/sidbelbase/master/wave.gif" width="30px"><strong> Hello There, I'm <a href="https://linktr.ee/RohitRajput1">Rohit Rajput</a>.</strong>
 </h1>
 
-- I love researching and working in the dynamic fields of **DevOps** and **Cloud technologies**, with a year of hands-on experience. My toolkit includes Linux, Shell Scripting, Git, Docker, Jenkins, Kubernetes, Ansible, Terraform, AWS, and Grafana.
-- I am currently learning **Backend development** with Django to build high-performance applications compatible with Cloud-Native tools.
-- I am also a **Technical Content Writer** and I write [**blogs**](https://devops-rohit.hashnode.dev/) on DevOps and Cloud.
+- With a year of experience in **DevOps** and **Cloud**, my skills include Linux, Shell Scripting, Git, Docker, Jenkins, Kubernetes, Ansible, Terraform, AWS, and Grafana.
+- I'm also learning Django for **backend development** and write technical [**blogs**](https://devops-rohit.hashnode.dev/)  on DevOps and Cloud.
 
 ---
 
